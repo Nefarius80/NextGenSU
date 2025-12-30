@@ -3,6 +3,11 @@
 
 #include <linux/types.h>
 
+// ShirkNeko/KernelSU
+#define EXPECTED_SIZE_NEXTGENSU 0x2e8
+#define EXPECTED_HASH_NEXTGENSU                                                \
+	"0f68387d37ffbc054e8427dcc37666a5df799dfcd971d841dd9a02c236db95f2"
+
 // rsuntk/KernelSU
 #define EXPECTED_SIZE_RSUNTK 0x396
 #define EXPECTED_HASH_RSUNTK                                                   \
