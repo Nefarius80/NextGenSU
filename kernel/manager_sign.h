@@ -2,8 +2,8 @@
 #define MANAGER_SIGN_H
 
 // ShirkNeko/SukiSU
-#define EXPECTED_SIZE_SHIRKNEKO 0x2e8
-#define EXPECTED_HASH_SHIRKNEKO                                                \
+#define EXPECTED_SIZE_NEXTGENSU 0x2e8
+#define EXPECTED_HASH_NEXTGENSU                                                \
     "0f68387d37ffbc054e8427dcc37666a5df799dfcd971d841dd9a02c236db95f2"
 
 typedef struct {
